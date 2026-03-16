@@ -1,6 +1,6 @@
 # ⌚ Marcelo Vieira Junior
 
-**`Desenvolvedora Backend`**
+**`Desenvolvedor Backend`**
 
 Me chamo Marcelo Vieira Junior, tenho 20 anos e sou natural de Santa Catarina. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIASSELVI. Sou apaixonado por tecnologia.
 
