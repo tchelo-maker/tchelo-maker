@@ -68,13 +68,6 @@ Me chamo Marcelo Vieira Junior, tenho 20 anos e sou natural de Santa Catarina. A
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src=https://github-readme-stats.vercel.app/api?username=tchelo-maker&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-  />
 
 <img 
       align="left" 
